@@ -1,0 +1,17 @@
+body, pre, pre code, pre:not([class]) {
+  background-color: rgb(169,169,169);
+}
+
+h1.subtitle {
+  font-size: 1em;
+}
+
+h2.author {
+  font-size: .8em;
+}
+
+img[alt="down"]{
+  border: 0px !important;
+  box-shadow: none !important;
+  background: transparent !important;
+}
